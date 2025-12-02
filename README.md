@@ -2,11 +2,11 @@
 
 # Ratchet & Clank: Going Unreal
 
-Ratchet & Clank: Going Unreal is a Fan game/Framework made inside of Unreal Engine 4, brought into Unreal Engine 5.4 by Herogon. It's still pretty much in an early state but due to popular demand and other plans the original creator decided to make it open source. This framework is intended to be a replication (Keep in mind i said Replication and not duplication so things might be a little different for multiple reasons) of Ratchet's core movement mechanic from Going Commando. You'll be able to do things like, customize the code to your liking (If you're experienced with Unreal), create your own levels, make new weapons etc... Endless possibilities. 
+Ratchet & Clank: Going Unreal is a Fan game/Framework made inside of Unreal Engine 4, brought into Unreal Engine 5.4 by Herogon. It's still pretty much in an early state, but due to popular demand and other plans, the original creator decided to make it open source. This framework is intended to be a replication (Keep in mind I said replication and not duplication, so things might be a little different for multiple reasons) of Ratchet's core movement mechanic from Going Commando. You'll be able to do things like customize the code to your liking (If you're experienced with Unreal), create your own levels, make new weapons etc... Endless possibilities. 
 
-Keep in mind there's a lack of UI as the original creator doesn't like to work with UI but now that it's open source you guys can make your own ;). 
+Keep in mind there's a lack of UI as the original creator doesn't like to work with UI, but now that it's open source, you guys can make your own ;). 
 
-NOTE from HerogonStudios: If the project has building issues, follow these steps.
+NOTE from BlueprintBailey: If the project has building issues, follow these steps.
 1. Right-Click on the I5.uproject icon in the I5 folder.
 2. Go to "More Options" and press "Generate Visual Studio Files".
 3. Go into the I5.sln file. Open the file in Visual Studio.
@@ -32,15 +32,15 @@ To be able to open and use the framework you're going to need Unreal Engine 5.4 
  
 ## Usage
 
-Assuming that you have everything Installed you just Double Click I5.exe. (More documentation will come. chill)
+Assuming that you have everything installed, you just double-click I5.exe. (More documentation will come. chill)
 
 
 ## Features
 
-- **Feature 1**: Ratchet's Moveset and Abilities .
+- **Feature 1**: Ratchet's Moveset and Abilities.
 - **Feature 2**: Ratchet's Weapon Arsenal.
 - **Feature 3**: Ratchet's Camera System (Somewhat).
-- **Feature 4**: The ability to change the Source code i guess.
+- **Feature 4**: The ability to change the Source code.
 
 ## Contributing
 
@@ -52,7 +52,7 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-If you want your own Version and receive updates of the Framework you just need to Fork the project then Sync Fork when there's an updated Version.
+If you want your own Version and receive Framework updates: Fork the project, then Sync Fork when there's an updated Version.
 
 ## License
 
